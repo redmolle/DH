@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83c1dafe-b98b-4d83-965f-ceb8b56a8659" name="Default Changelist" comment="" />
+    <list default="true" id="83c1dafe-b98b-4d83-965f-ceb8b56a8659" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Diffie_Hellman_KeyExchange.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Diffie_Hellman_KeyExchange.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExchangeServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExchangeServer.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ExchangeServer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+            <state relative-caret-position="109">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -25,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Alice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="8" lean-forward="true" selection-end-line="151" />
+            <state relative-caret-position="27">
+              <caret line="69" column="51" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="51" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -34,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bob.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -60,6 +66,9 @@
       <find>RegisterClient</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -69,9 +78,9 @@
         <option value="$PROJECT_DIR$/PublicKeys.py" />
         <option value="$PROJECT_DIR$/prime.py" />
         <option value="$PROJECT_DIR$/helper.py" />
-        <option value="$PROJECT_DIR$/ExchangeServer.py" />
         <option value="$PROJECT_DIR$/Alice.py" />
         <option value="$PROJECT_DIR$/Bob.py" />
+        <option value="$PROJECT_DIR$/ExchangeServer.py" />
       </list>
     </option>
   </component>
@@ -80,6 +89,7 @@
     <option name="width" value="814" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -100,6 +110,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -114,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Alice">
+  <component name="RunManager" selected="Python.Bob">
     <configuration name="Alice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diffie_Hellman_KeyExchange" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,8 +212,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Alice" />
         <item itemvalue="Python.Bob" />
+        <item itemvalue="Python.Alice" />
         <item itemvalue="Python.ExchangeServer" />
         <item itemvalue="Python.Example" />
       </list>
@@ -225,15 +236,15 @@
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.4765526" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.4765526" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.22053231" side_tool="true" visible="true" weight="0.03984064" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.07921419" side_tool="true" visible="true" weight="0.73439574" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32802126" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.9207858" weight="0.73439574" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.7794677" weight="0.03984064" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -343,23 +354,9 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Public/keys.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LabDev/prime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/keys.py" />
+    <entry file="file://$PROJECT_DIR$/../LabDev/prime.py" />
+    <entry file="file://$PROJECT_DIR$/Example.py" />
     <entry file="file://$PROJECT_DIR$/PublicKeys.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -475,32 +472,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExchangeServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Alice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" lean-forward="true" selection-end-line="151" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bob.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="69" column="51" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExchangeServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>

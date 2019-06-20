@@ -67,7 +67,7 @@ def is_ready_for_exchange():
 @app.route(baseUrl + 'GetClientsPublicKeys', methods=['GET'])
 def get_clients_public_keys():
     if check_is_ready():
-        return jsonify({clients}), 200
+        return json.dumps(clients), 200
     else:
         abort(400)
 
